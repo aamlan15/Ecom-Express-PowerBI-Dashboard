@@ -66,9 +66,6 @@ Ecom-Express-PowerBI-Dashboard/
 ```
 
 ## Author
-Amlan Biswal
-B.Tech,Engineering Physics
-Delhi Technological University, Delhi
 **Amlan Biswal**
 
 GitHub: https://github.com/aamlan15
