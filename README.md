@@ -4,9 +4,6 @@
 
 This project is an interactive Power BI dashboard developed to analyze the sales performance of an e-commerce company, **Ecom Express**. It provides insights into revenue, orders, product performance, cancellations, and state-wise sales to support data-driven decision-making.
 
-## Dashboard Preview
-
-![Dashboard](Images/Dashboard.png)
 
 ## Business Problem
 
