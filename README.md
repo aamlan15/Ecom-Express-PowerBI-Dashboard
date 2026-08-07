@@ -1,4 +1,4 @@
-# 📊 Ecom Express Power BI Dashboard
+# Ecom Express Power BI Dashboard
 
 ## Project Overview
 
